@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/lambda/pom.xml" />
         <option value="$PROJECT_DIR$/stream/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk9/pom.xml" />
       </list>
     </option>
   </component>

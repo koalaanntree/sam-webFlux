@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jdk9" />
         <module name="lambda" />
         <module name="stream" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jdk9" target="9" />
       <module name="lambda" target="1.8" />
       <module name="stream" target="1.8" />
     </bytecodeTargetLevel>
