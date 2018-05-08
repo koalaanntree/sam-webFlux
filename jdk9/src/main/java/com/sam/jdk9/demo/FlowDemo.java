@@ -67,7 +67,7 @@ public class FlowDemo {
 		// 4.生产数据并发布
 		// 这里忽略数据生产过程
 		for (int i = 0; i < 1000; i++) {
-			System.out.println("" + i);
+			System.out.println("生产数据：" + i);
 			//
 			publiser.submit(i);
 		}
