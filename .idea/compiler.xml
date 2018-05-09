@@ -9,12 +9,14 @@
         <module name="jdk9" />
         <module name="lambda" />
         <module name="stream" />
+        <module name="webflux" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jdk9" target="9" />
       <module name="lambda" target="1.8" />
       <module name="stream" target="1.8" />
+      <module name="webflux" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
