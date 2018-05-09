@@ -10,6 +10,7 @@
         <module name="lambda" />
         <module name="stream" />
         <module name="webflux" />
+        <module name="webflux2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="lambda" target="1.8" />
       <module name="stream" target="1.8" />
       <module name="webflux" target="9" />
+      <module name="webflux2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
