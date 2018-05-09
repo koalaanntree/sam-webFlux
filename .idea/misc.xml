@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/jdk9/pom.xml" />
         <option value="$PROJECT_DIR$/webflux/pom.xml" />
         <option value="$PROJECT_DIR$/webflux2/pom.xml" />
+        <option value="$PROJECT_DIR$/webfluxclient/pom.xml" />
       </list>
     </option>
   </component>

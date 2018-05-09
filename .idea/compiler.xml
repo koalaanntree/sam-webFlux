@@ -11,6 +11,7 @@
         <module name="stream" />
         <module name="webflux" />
         <module name="webflux2" />
+        <module name="webfluxclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="stream" target="1.8" />
       <module name="webflux" target="9" />
       <module name="webflux2" target="1.8" />
+      <module name="webfluxclient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
